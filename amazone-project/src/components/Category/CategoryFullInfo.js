@@ -6,7 +6,7 @@ export const CategoryFullInfo = [
     },
     {
         title:"Discover Fashion Trends",
-        name:"women s Cloths",
+        name:"women's clothing",
         imgLink:"https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2022/SITE_FLIPS/SPR_22/GW/DQC/DQC_APR_TBYB_W_DRESSES_1x._SY116_CB623353881_.jpg"
     },
     {
@@ -16,7 +16,7 @@ export const CategoryFullInfo = [
     },
     {
         title:"New year, new supplies",
-        name:"Office Product",
+        name:"jewelery",
         imgLink:"https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2023/img/Consumer_Electronics/XCM_CUTTLE_1555947_2997386_379x304_1X_en_US._SY304_CB594429819_.jpg"
     },
 ];
